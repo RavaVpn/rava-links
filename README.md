@@ -12,14 +12,14 @@
 | 注册 / 订阅入口 | https://tryrava.com/go?s=github-links | ✅ 正常 |
 | 官方 Twitter/X | https://x.com/RavaVpn67 | ✅ 正常 |
 | 旧域名 rava1.com | 已停用,大陆无法打开 | ➡️ 请改用 https://tryrava.com |
-| 产品介绍页(规格 / 试用方法 / 各平台要点) | https://github.com/leebnbppp2/rava-vpn | ✅ 正常 |
+| 产品介绍页(规格 / 试用方法 / 各平台要点) | https://github.com/RavaVpn/rava-vpn | ✅ 正常 |
 
 如以上地址无法打开,说明你所在网络可能存在干扰,可稍后重试或通过官方 Twitter/X 获取最新地址。
 
 ## 如何验证地址是官方的
 
 1. 浏览器地址栏应显示 `https://` 且证书域名与上表一致;
-2. 本页(github.com/leebnbppp2/rava-links)与官方 Twitter/X 互相印证——两处同时公布的地址才可信;
+2. 本页(github.com/RavaVpn/rava-links)与官方 Twitter/X 互相印证——两处同时公布的地址才可信;
 3. RAVA 不会通过私信、邮件或第三方群组主动向你发送"新地址",谨防钓鱼。
 
 ## 关于 RAVA
